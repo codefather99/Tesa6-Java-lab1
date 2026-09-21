@@ -1,6 +1,6 @@
 # agent-review.md
 
-Review of the unedited AI output saved as `agent-money.java`.
+Review of the unedited AI output saved as `agent_money.java`.
 
 ## Provenance
 
